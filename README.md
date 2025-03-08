@@ -18,6 +18,11 @@ This project was derived from a [course](https://youtu.be/FfWpgLFMI7w) uploaded 
 ## Requirements
 - `pygame`
 
+To install the required dependencies, simply run:
+```bash
+pip install -r requirements.txt
+```
+
 ## Further Work
 - Create a variable for screen_size and adjust player/enemies based on the current screen_size
 - Add prompt for restart similar to the quit
