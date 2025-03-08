@@ -216,7 +216,6 @@ while program_running:
             # destroy_bullet()  #uncomment if you want to kill a single enemy with a single bullet
             Score += 1
             explosion_sound.play()
-            pygame.time.delay(30)
             init_enemy(i)
             #blast effects
 
